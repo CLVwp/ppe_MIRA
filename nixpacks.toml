@@ -1,0 +1,3 @@
+# Export statique Next.js : servir le dossier out/ au lieu de next start
+[start]
+cmd = "pnpm start"
